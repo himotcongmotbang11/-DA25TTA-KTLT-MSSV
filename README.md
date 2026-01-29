@@ -11,14 +11,9 @@
  	
  	printf ("nhap mot so nguyen duong n = ");
  	scanf("%d",&n);
- 	printf ("nhap mot so nguyen duong n = ");
+ 	printf ("nhap mot so nguyen duong m = ");
  	scanf("%d",&m);
-	tong= m+n;
-	hieu= n-m;
-	tich= n*m;
-	thuong=n/m;
- 	printf ("\ntong hai so nguyen duong n = %d",tong);
- 	printf ("\nhieu hai so nguyen duong n = %d",hieu);
- 	printf ("\ntich hai so nguyen duong n =%d ",tich);
- 	printf ("\nthuong so nguyen duong n =%.2f ",thuong);
+	printf("\nXuat  so nguyen n:%d",n);
+	printf("\nXuat  so nguyen m:%d",m);
+ 	return 0;
   }
