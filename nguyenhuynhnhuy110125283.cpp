@@ -21,4 +21,5 @@
  	printf ("\ntich hai so nguyen duong n =%d ",tich);
  	printf ("\nthuong so nguyen duong n =%.2f ",thuong);
  	
+return 0;
  }
