@@ -12,6 +12,7 @@
  	scanf("%d",&n);
  	printf ("nhap mot so nguyen duong n = ");
  	scanf("%d",&m);
+	/*toi da o day */
 	tong= m+n;
 	hieu= n-m;
 	tich= n*m;
@@ -23,3 +24,4 @@
  	
 return 0;
  }
+
